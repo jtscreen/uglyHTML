@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(53,53,53)
+}
+
+header{
+    color: whitesmoke;
+    font-family: "Tangerine";
+    font-size: 72px;
+    text-align: center;
+}
+
+h3{
+    color: whitesmoke;
+    font-family: "Unica One";
+    font-size: 26px;
+    text-align: center;
+}
+
+.top img{
+    width: 540px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.watch_container img{
+    float: left;
+    height:200px;
+    width: 200;   
+}
+
+.watch_container{
+    color: whitesmoke;
+    background-color: #1A1818;
+    border: 2px solid #FDEFA6; 
+    border-radius: 13px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text{
+    font-size: 16px;
+    font-family: "Unica One";
+}
+
+.watch_description{
+    font-family: "Dosis";
+}
+
+footer{
+    color: whitesmoke;
+    font-family: "Dosis";
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
